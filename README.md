@@ -20,8 +20,8 @@
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Lerking/python-repo-template.svg)](https://GitHub.com/Lerking/python-repo-template/pull)
 [![GitHub total-pull-requests](https://badgen.net/github/prs/Lerking/python-repo-template)](https://GitHub.com/Lerking/python-repo-template/pull)
 
-Coding time for the last 30 days.</br>
-[![wakatime](https://wakatime.com/badge/user/d43f2852-fd6f-45b4-b713-558ad18204d4/project/211ffb9c-81fc-4187-a834-aa7b107a2055.svg)](https://wakatime.com/badge/user/d43f2852-fd6f-45b4-b713-558ad18204d4/project/211ffb9c-81fc-4187-a834-aa7b107a2055)
+Coding time for this reposotory.</br>
+[![wakatime](https://wakatime.com/badge/user/d43f2852-fd6f-45b4-b713-558ad18204d4/project/dcf411f9-6d3e-4b14-9290-5ed419cf4012.svg)](https://wakatime.com/badge/user/d43f2852-fd6f-45b4-b713-558ad18204d4/project/dcf411f9-6d3e-4b14-9290-5ed419cf4012)
 
 See the wiki for usage and examples.
 [python-repo-template wiki page](https://github.com/Lerking/python-repo-template/wiki)
