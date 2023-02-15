@@ -25,3 +25,6 @@ Coding time for this reposotory.</br>
 
 See the wiki for usage and examples.
 [python-repo-template wiki page](https://github.com/Lerking/python-repo-template/wiki)
+
+Visitors since repo creation.</br>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Lerking.python-repo-template)
